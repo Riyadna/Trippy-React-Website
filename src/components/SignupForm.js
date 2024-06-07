@@ -7,7 +7,7 @@ function SignupForm(){
     <form>
         <input placeholder="Email"/>
         <input placeholder="Password"/>
-        <button>sign up</button>
+        <button type="submit">sign up</button>
     </form>
 
 </div>
